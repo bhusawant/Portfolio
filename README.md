@@ -1,4 +1,4 @@
 # Portfolio
 
 
-https://bhuvansawantportfolio.netlify.app/#/
+https://bhuvansawantportfolio.netlify.app/
